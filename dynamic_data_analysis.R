@@ -1,9 +1,9 @@
 # Dynamic Data Analysis in R (ver 1.1 betta):
 # This is the R adaptation of my python script made during my PhD
-# to visualize the fractional variance of individual Principal Components
-# calculated from molecualar dynamics data using GROMACS.
-# For integrative visualization this data pipeline process All input data files
-# and creates 2D and 3D visualizations of the whole data 
+# to visualize the statistical plots like fractional covariance of Principal Components
+# calculated using GROMACS, AMBER, NAMD or other similar packages.
+# For integrative visualization this data pipeline process all data files
+# and creates 2D and 3D visualizations of the whole repertoire. 
 # Designed, programmed and benchmarked by Gleb Novikov,
 # The Visual Hub - All rights reserved - 2025
 
