@@ -37,9 +37,6 @@ Before analysis, datasets must be harmonized to ensure compatibility:
 - Matching variables across datasets
 - Aligning time periods
 
-### 💡 Increased Insight
-By integrating data across domains, IDA reveals richer insights and patterns that may not emerge from single-source analysis.
-
 ## Applications
 
 - **🧬 Health Research**: Integrating clinical and genomic data to better understand diseases.
