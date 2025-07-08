@@ -7,4 +7,4 @@
 Welcome to the **DataResilience** -cutting-edge 🐍 Python and 📊 R scripts tailored for Bioinformatics and Data Analysis.  
 From genomics and molecular dynamics to machine learning — empowering your research with resilient code.
   
-⭐ Detailed README is comming soon ⭐
+⭐ Detailed README is coming soon ⭐
