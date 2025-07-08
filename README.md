@@ -1,4 +1,4 @@
-# 📊🐍 DataResilience
+# 📊🐍 Data Resilience
 
 <p align="center">
   <img src="https://github.com/TheVisualHub/VisualFactory/blob/fde3372c1db7fe9edbab2efbc9aeacd0eca3a2b3/assets/dataresilience_logo1.jpg?raw=true" alt="Data Resilience Logo"/>
