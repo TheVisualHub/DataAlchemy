@@ -9,9 +9,7 @@ How Nature encodes information with such incredible fidelity has long been among
   
 # ⭐ Detailed README is coming soon ⭐
 
-**Integrative Data Analysis (IDA)** refers to the process of combining and analyzing data from multiple sources—often with different structures, formats, or measurement levels—to extract comprehensive and meaningful insights.
-
-## Key Elements of Integrative Data Analysis
+### **Integrative Data Analysis (IDA)** refers to the process of combining and analyzing data from multiple sources—often with different structures, formats, or measurement levels—to extract meaningful insights:
 
 ### 📡 Combining Multiple Data Sources
 Bringing together data from different sources such as:
